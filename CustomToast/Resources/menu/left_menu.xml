@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <group android:checkableBehavior="single">
+    <item android:title="Sub Information |">
+      <menu>
+          <item android:id="@+id/home"
+      android:title="Ullamco laboris "
+      android:icon="@drawable/ic_action_group"/>
+
+    <item android:id="@+id/add_new"
+         android:title="Minim Veniam"
+           android:icon="@drawable/ic_action_group"/>
+
+    <item android:id="@+id/my_note"
+         android:title="Minim Aeniam"
+           android:icon="@drawable/ic_action_group"/>
+    <item android:id="@+id/trash"
+       android:title="Dinim Leniam"
+           android:icon="@drawable/ic_action_group"/>
+    <item android:id="@+id/email"
+       android:title="Dinim Leniam"
+     android:icon="@drawable/ic_action_group"/>  
+      </menu>
+    </item>  
+  </group>
+
+  <item android:title="Sub Information ||">
+    <menu>
+      <item android:id="@+id/left3"
+         android:title="Dinim Leniam"
+             android:icon="@drawable/ic_action_group"/>
+      <item android:id="@+id/abt"
+       android:title="Dinim Leniam"
+             android:icon="@drawable/ic_action_group"/>
+      <item android:id="@+id/help"
+       android:title="Dinim Leniam"
+             android:icon="@drawable/ic_action_group"/>
+    </menu>   
+    
+  </item>
+    <item android:title="Sub Information |||">
+      <menu>
+
+        <item android:id="@+id/left3"
+           android:title="Dinim Leniamgmig"
+               android:icon="@drawable/ic_action_group"/>
+        <item android:id="@+id/abt"
+         android:title="Dinim Leniam"
+               android:icon="@drawable/ic_action_group"/>
+        <item android:id="@+id/help"
+         android:title="Dinim Leniam"
+               android:icon="@drawable/ic_action_group"/>
+
+
+      </menu>
+    
+    
+    
+    
+    
+  </item>
+
+
+
+</menu>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+	android:orientation="vertical"
+	android:background="@drawable/new_nav_image"
+    android:layout_height="230dp"
+	android:padding="15dp">
+	<ImageView
+		android:layout_width="145dp"
+		android:layout_height="145dp"
+		android:src="@drawable/user_logo"
+		android:id="@+id/imageView1" />
+	<TextView
+		android:text="Application Username"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="25sp"
+		android:textStyle="bold"
+		android:textColor="@android:color/white"
+		android:id="@+id/textView1" />
+	<TextView
+		android:text="Other Information"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="20sp"
+		android:textColor="#fff600"
+		android:id="@+id/textView2" />
+</LinearLayout >

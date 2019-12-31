@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">CustomToast</string>
+  <string name="action_settings">Settings</string>
+  <string name="close">Close</string>
+  <string name="open">Open</string>
+  
+  <string name="toast_message">
+    <br>Add your own contents\n</br>
+    <br>Happy coding!\n</br>
+    
+    
+  </string>
+</resources>
